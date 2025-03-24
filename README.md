@@ -6,5 +6,7 @@
     resultatet skal vises i et dom element.
 
   Design er frit.
+  https://simonh3-coder.github.io/Valuta-omregner/
+
 
   
